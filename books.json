@@ -1,3 +1,5 @@
+{
+  "books":
 [
     {
         "id": 1,
@@ -110,7 +112,7 @@
             "Magical Realism",
             "Literary Fiction"
         ],
-        "description": "A multi-generational saga of the Buend¨ªa family in the fictional town of Macondo.",
+        "description": "A multi-generational saga of the BuendÂ¨Âªa family in the fictional town of Macondo.",
         "cover_image": "https://fakeimg.pl/667x1000/cc6600"
     },
     {
@@ -245,4 +247,4 @@
         "description": "A satirical novel following Huck Finn's journey down the Mississippi River.",
         "cover_image": "https://fakeimg.pl/667x1000/cc6600"
     }
-]
+]}
